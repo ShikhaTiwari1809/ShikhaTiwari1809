@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhatiwari1809&label=Profile%20views&color=0e75b6&style=flat" alt="shikhatiwari1809" /> </p>
 
--  🔭 I’m currently working on building an end-to-end **LLM pipeline on multimodal data (text, images, videos).**
+🔭 I’m currently working on building an end-to-end **LLM pipeline on multimodal data (text, images, videos).**
   
-- 🌱 I’m currently learning advanced techniques for fine-tuning **large language models** on multimodal datasets, including **Retrieval-Augmented Generation (RAG)**.
+🌱 I’m currently learning advanced techniques for fine-tuning **large language models** on multimodal datasets, including **Retrieval-Augmented Generation (RAG)**.
   
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision and LLM.**
+💬 Ask me about **Machine Learning, Deep Learning, Computer Vision and LLM.**
   
-- 📫 How to reach me: **shikhat702@gmail.com**
+📫 How to reach me: **shikhat702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
