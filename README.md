@@ -4,7 +4,6 @@
 <h3 align="center">A Data Science Master's Student passionate about ML, LLM, NLP and Image Processing.</h3>
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhatiwari1809&label=Profile%20views&color=0e75b6&style=flat" alt="shikhatiwari1809" /> </p>
 
 🔭 I’m currently working on building an end-to-end **LLM pipeline on multimodal data (text, images, videos).**
   
@@ -32,3 +31,5 @@ With 4.5 years of industry experience as a Data Scientist, I have worked across 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhatiwari1809&show_icons=true&locale=en" alt="shikhatiwari1809" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhatiwari1809&" alt="shikhatiwari1809" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhatiwari1809&label=Profile%20views&color=0e75b6&style=flat" alt="shikhatiwari1809" /> </p>
