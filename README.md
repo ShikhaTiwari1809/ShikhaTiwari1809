@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.linkedin.com/in/tiwarishikha18/overlay/background-image/)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEccOtSTDk3Aw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720773529066?e=1732147200&v=beta&t=MhAYMDIwi7onyLxhy1zc95PqO4LEDbGwJxuC_MgoR7s)
 <h1 align="center">Hi 👋, I'm Shikha Tiwari</h1>
 <h3 align="center">A Data Science Master's Student passionate about ML, LLM, NLP and Image Processing.</h3>
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
