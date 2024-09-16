@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shikha Tiwari</h1>
 <h3 align="center">A Data Science Master's Student passionate about ML, LLM, NLP and Image Processing.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif”>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif”/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhatiwari1809&label=Profile%20views&color=0e75b6&style=flat" alt="shikhatiwari1809" /> </p>
 
