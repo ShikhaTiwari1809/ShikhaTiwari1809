@@ -14,7 +14,7 @@
   
 📫 How to reach me: **shikhat702@gmail.com**
 
-## About Me
+<h3 align="left">About Me:</h3>
 I am currently pursuing a Master of Science in Data Science at Northeastern University and have a solid theoretical foundation and academic projects in data science, machine learning, deep learning, image processing, NLP, and data analytics.
 
 With 4.5 years of industry experience as a Data Scientist, I have worked across sectors such as healthcare, finance, and manufacturing. I have hands-on experience in enhancing database performance, developing predictive models, and optimizing processes that lead to measurable improvements in productivity and cost savings. My recent projects involved improving airline data systems at Airbus, boosting sales performance at Paytm, and automating processes at Tata Consultancy Services, resulting in significant impact for clients.
