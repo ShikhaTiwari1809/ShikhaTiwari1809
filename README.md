@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)]
+![MasterHead](https://www.linkedin.com/in/tiwarishikha18/overlay/background-image/)]
 <h1 align="center">Hi 👋, I'm Shikha Tiwari</h1>
 <h3 align="center">A Data Science Master's Student passionate about ML, LLM, NLP and Image Processing.</h3>
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
