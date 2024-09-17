@@ -27,7 +27,7 @@ With 4.5 years of industry experience as a Data Scientist, I have worked across 
 ### 📊 Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhatiwari1809&show_icons=true&locale=en&layout=compact" alt="shikhatiwari1809" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhatiwari1809&show_icons=true&locale=en" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhatiwari1809&show_icons=true&locale=en" alt="shikhatiwari1809"/></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhatiwari1809&" alt="shikhatiwari1809" /></p> 
 
