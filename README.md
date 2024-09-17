@@ -18,7 +18,7 @@ I am currently pursuing a Master of Science in Data Science at Northeastern Univ
 
 With 4.5 years of industry experience as a Data Scientist, I have worked across sectors such as healthcare, finance, and manufacturing. I have hands-on experience in enhancing database performance, developing predictive models, and optimizing processes that lead to measurable improvements in productivity and cost savings. My recent projects involved improving airline data systems at Airbus, boosting sales performance at Paytm, and automating processes at Tata Consultancy Services, resulting in significant impact for clients.
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiwarishikha18/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shikhat702) 
 
 ### 💻 Tech Stack:
