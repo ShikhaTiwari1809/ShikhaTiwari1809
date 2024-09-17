@@ -32,3 +32,8 @@ With 4.5 years of industry experience as a Data Scientist, I have worked across 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhatiwari1809&" alt="shikhatiwari1809" /></p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhatiwari1809&label=Profile%20views&color=0e75b6&style=flat" alt="shikhatiwari1809" /> </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShikhaTiwari1809&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShikhaTiwari1809&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShikhaTiwari1809&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
