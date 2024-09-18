@@ -9,7 +9,7 @@
   
 🌱 I’m currently learning advanced techniques for fine-tuning **large language models** on multimodal datasets, including **Retrieval-Augmented Generation (RAG)**.
   
-💬 Ask me about **Machine Learning, Deep Learning, Computer Vision and LLM.**
+💬 Ask me about **Machine Learning, Deep Learning, Computer Vision image processing and LLM.**
   
 📫 How to reach me: **shikhat702@gmail.com**
 
