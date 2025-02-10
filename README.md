@@ -1,5 +1,5 @@
 
-![MasterHead](https://drive.google.com/file/d/1dD8I8hzyuZQZt7AQrk9uk3sW7COmk-8S/view)
+![MasterHead](https://drive.google.com/file/d/1dD8I8hzyuZQZt7AQrk9uk3sW7COmk-8S/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Shikha Tiwari</h1>
 <h3 align="center">A Data Science Master's Student passionate about ML, LLM, NLP and Image Processing.</h3>
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
