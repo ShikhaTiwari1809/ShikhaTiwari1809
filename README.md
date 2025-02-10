@@ -11,6 +11,7 @@
 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision image processing and LLM.**
   
 📫 How to reach me: **shikhat702@gmail.com**
+**https://shikha-tiwari.carrd.co/#**
 
 <h3 align="left">About Me:</h3>
 I am currently pursuing a Master of Science in Data Science at Northeastern University and have a solid theoretical foundation and academic projects in data science, machine learning, deep learning, image processing, NLP, and data analytics.
