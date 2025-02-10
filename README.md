@@ -1,5 +1,7 @@
 
 ![MasterHead](https://raw.githubusercontent.com/ShikhaTiwari1809/ShikhaTiwari1809/refs/heads/main/master.png)
+<h1 align="center">Hi, I am Shikha Tiwari</h1>
+<h3>I am a Data Science Master’s student at Northeastern University with a passion for Multimodal LLMs, Deep Learning, and AI-driven solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
 
 
