@@ -32,7 +32,6 @@ I enjoy working at the intersection of **modeling, systems, and impact**.
 - **RAG systems** with vector databases for domain-specific QA
 - **Daily LeetCode practice** (DSA + problem-solving discipline)
 
-📈 *I push code to GitHub almost daily.*
 
 ---
 
