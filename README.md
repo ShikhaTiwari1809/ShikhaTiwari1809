@@ -4,7 +4,7 @@ Data Scientist | Machine Learning Engineer | Open to Full-Time Roles
 </h3>
 
 <p align="center">
-Master’s in Data Science (GPA 3.95) • 4+ years industry experience • ML, LLMs & Analytics
+Master’s in Data Science (GPA 3.96) • 4+ years industry experience • ML, LLMs & Analytics
 </p>
 
 <img align="right" alt="Data Science Animation" width="380" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif"/>
