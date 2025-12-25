@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shikha Tiwari</h1>
+<h1 align="center">Hi, I'm Shikha Tiwari</h1>
 <h3 align="center">
 Data Scientist | Machine Learning Engineer | Open to Full-Time Roles
 </h3>
