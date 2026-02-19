@@ -12,7 +12,7 @@ Master’s in Data Science (GPA 3.96) • 4+ years industry experience • ML, L
 ---
 
 ### About Me
-I am a **Data Scientist** with **4+ years of industry experience** across **healthcare, fintech, and SaaS**, and a **Master’s degree in Data Science from Northeastern University**.
+I am a **Data Scientist** with **4+ years of industry experience** across **manufacturing, and fintech**, and a **Master’s degree in Data Science from Northeastern University**.
 
 I specialize in:
 - Building **production-ready ML pipelines**
