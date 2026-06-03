@@ -1,10 +1,11 @@
-<h1 align="center">Shikha Tiwari</h1>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+<h1 align="center">Shikha Tiwari</h1>
 <p align="center">
   <strong>GenAI Engineer · Data Scientist · ML Engineer</strong><br/>
   4+ years building production AI, data, and backend systems across fintech, manufacturing, and research.<br/>
