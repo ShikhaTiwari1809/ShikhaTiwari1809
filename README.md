@@ -47,18 +47,18 @@ I specialize in turning ambiguous business problems into reliable, production-re
 
 ## Featured Projects
 
-### 🧬 [Project Name 1 — e.g., LLM Council Bias Detection Pipeline]
+### 🧬 [LLM Council Bias Detection Pipeline]
 `LangGraph` `LangChain` `Pydantic` `MLflow`
 > Multi-agent agentic workflow with parallel debater agents, chairman verdict, and benchmark-style evaluation. Achieved **80.6% precision, 0.67 F1** across workflow variants.
 ---
 
-### 🌿 [Project Name 2 — e.g., Harmful Algae Bloom Segmentation]
+### 🌿 [Harmful Algae Bloom Segmentation]
 `PyTorch` `ResNet50` `FastAPI` `Docker` `MySQL`
 > Production CNN pipeline for satellite image segmentation. Deployed as a real-time FastAPI inference service. Achieved **78% mIoU** with a Random Forest severity predictor at **R² = 0.73**.
 
 ---
 
-### 📄 [Project Name 3 — e.g., BioMistral Clinical Summarization]
+### 📄 [MedBrief: BioMistral Clinical Summarization]
 `QLoRA` `PyTorch` `HuggingFace` `MLflow`
 > Fine-tuned BioMistral-7B on radiology data using QLoRA. Built full preprocessing + evaluation pipeline. Improved ROUGE-1 from **0.20 (zero-shot) → 0.43 (fine-tuned)**.
 > 📎 [Repo Link](https://github.com/ShikhaTiwari1809/MedBrief)
