@@ -47,8 +47,6 @@ I specialize in turning ambiguous business problems into reliable, production-re
 
 ## Featured Projects
 
-> 🔗 *Each project below links to a repo with full documentation, results, and reproducible code.*
-
 ### 🧬 [Project Name 1 — e.g., LLM Council Bias Detection Pipeline]
 `LangGraph` `LangChain` `Pydantic` `MLflow`
 > Multi-agent agentic workflow with parallel debater agents, chairman verdict, and benchmark-style evaluation. Achieved **80.6% precision, 0.67 F1** across workflow variants.
