@@ -9,7 +9,7 @@
 <p align="center">
   <strong>GenAI Engineer · Data Scientist · ML Engineer</strong><br/>
   4+ years building production AI, data, and backend systems across fintech, manufacturing, and research.<br/>
-  Currently open to <strong>full-time remote roles in the US</strong>.
+  Currently open to <strong>full-time roles in the US</strong>.
 </p>
 
 <p align="center">
